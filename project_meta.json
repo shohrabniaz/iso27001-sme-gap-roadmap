@@ -1,10 +1,17 @@
 {
-  "seq": 42,
   "title": "Mapping an SME to ISO/IEC 27001:2022 \u2014 Gap Analysis and Roadmap",
-  "slug": "mapping-an-sme-to-iso-iec-27001-2022-gap-analysis-and-r",
+  "old_slug": "mapping-an-sme-to-iso-iec-27001-2022-gap-analysis-and-r",
+  "slug": "iso27001-sme-gap-roadmap",
   "folder": "Mapping_An_Sme_To_Iso_Iec_27001",
   "kind": "governance",
-  "body_words": 248,
+  "body_words": 321,
+  "source": "SCI700",
   "project_id": "Project 33",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
